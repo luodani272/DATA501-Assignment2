@@ -8,6 +8,9 @@ This is a very simple package that contains one function and a print version of 
 2. Use getwd() and setwd() to get into the right folder
 3. Run the following commands in your R terminal
 ```R
+install.packages("Rcpp")
+install.packages("devtools")
+
 Rcpp::compileAttributes()
 devtools::load_all()
 
