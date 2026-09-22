@@ -2,7 +2,7 @@ Package: RcppBootstrap
 Title: Simple Rcpp implementation of bootstrap confidence intervals for the median
 Version: 1.0.0
 Authors@R: 
-    person("Daniel", "Luo", , "luodani@myvuw.ac.nz")
+    person("Daniel Luo", "luodani@myvuw.ac.nz")
 Description: 
     This package provides a simple implementation of bootstrap confidence intervals for the median using Rcpp.
 License: `use_mit_license()`
